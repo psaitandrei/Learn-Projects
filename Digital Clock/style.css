@@ -10,6 +10,7 @@ body {
     background-blend-mode: multiply;
     background-size: cover;
     color: #fff;
+    overflow: hidden;
 }
 
 h2 {
